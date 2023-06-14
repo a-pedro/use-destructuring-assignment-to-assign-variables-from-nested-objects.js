@@ -1,0 +1,1 @@
+# use-destructuring-assignment-to-assign-variables-from-nested-objects.js
